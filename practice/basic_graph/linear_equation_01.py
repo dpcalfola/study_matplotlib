@@ -30,8 +30,7 @@ plt.plot(x_2, y_2, label='x - 2y = -1')
 plt.legend()
 
 # Save Image
-plt.savefig('graph_out/graph_01.png', dpi=300)
+# plt.savefig('graph_out/graph_01.png', dpi=300)
 
 # Show graph
 plt.show()
-
