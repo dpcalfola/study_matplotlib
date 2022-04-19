@@ -134,3 +134,6 @@ dmypy.json
 
 # graph out images
 *graph_out
+
+# latex out
+latex/latex_out
