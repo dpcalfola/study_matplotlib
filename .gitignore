@@ -137,3 +137,6 @@ dmypy.json
 
 # latex out
 latex/latex_out
+
+# out
+**/out/
